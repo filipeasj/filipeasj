@@ -81,14 +81,3 @@ Acredito no poder da tecnologia como agente de mudança e crescimento e estou se
 <br/>
 
 **`ATUALIZAÇÕES EM BREVE!`**
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=filipeasj&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>
