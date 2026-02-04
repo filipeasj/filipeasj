@@ -80,15 +80,15 @@ Acredito no poder da tecnologia como agente de mudança e crescimento e estou se
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/pacman-contribution-graph-dark.svg"
+    srcset="https://raw.githubusercontent.com/filipeasj/filipeasj/output/pacman-contribution-graph-dark.svg"
   >
   <source 
     media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/pacman-contribution-graph.svg"
+    srcset="https://raw.githubusercontent.com/filipeasj/filipeasj/output/pacman-contribution-graph.svg"
   >
   <img 
     alt="Pacman contribution graph" 
-    src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/pacman-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/filipeasj/filipeasj/output/pacman-contribution-graph.svg"
   >
 </picture>
 
