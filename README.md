@@ -76,7 +76,9 @@ Acredito no poder da tecnologia como agente de mudança e crescimento e estou se
     style="padding-right: 10px;" 
     src="https://imgs.search.brave.com/ZdPvU1BpMJhUvQyLelA0yqAilPRJ9eoFuoRxxBZpy_Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGlmeS5jb20v/cy9maWxlcy8xLzAw/NzMvNjEwNi85MTY3/L2ZpbGVzL2FwcHNo/ZWV0X2xvZ29fbWFy/a2V0cGxhY2VfMl84/MDB4LnBuZz92PTE2/NDYzOTYwOTc" 
 />
-
+<br/>
+<br/>
+<br/>
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
