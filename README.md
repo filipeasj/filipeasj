@@ -85,7 +85,7 @@ Acredito no poder da tecnologia como agente de mudança e crescimento e estou se
     srcset="https://raw.githubusercontent.com/filipeasj/filipeasj/output/pacman-contribution-graph-dark.svg"
   >
   <source 
-    media="(prefers-color-scheme: light)" 
+    media="(prefers-color-scheme: dark)" 
     srcset="https://raw.githubusercontent.com/filipeasj/filipeasj/output/pacman-contribution-graph.svg"
   >
   <img 
